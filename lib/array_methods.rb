@@ -12,7 +12,8 @@
      # expect(find_element_index(scale_2,6)).to eq(0)
 
 def find_element_index(array, value_to_find)
-  array.length
+  array.length.times do
+    
 end
 
 def find_max_value(array)
