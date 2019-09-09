@@ -12,7 +12,7 @@
      # expect(find_element_index(scale_2,6)).to eq(0)
 
 def find_element_index(array, value_to_find)
-  array.length.times do
+  array.length.times do |count|
     
 end
 
